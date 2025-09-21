@@ -1,0 +1,14 @@
+C:\Users\bekal\Music\C#Projects\HttpServer\bin\Debug\net9.0\HttpServer.exe
+C:\Users\bekal\Music\C#Projects\HttpServer\bin\Debug\net9.0\HttpServer.deps.json
+C:\Users\bekal\Music\C#Projects\HttpServer\bin\Debug\net9.0\HttpServer.runtimeconfig.json
+C:\Users\bekal\Music\C#Projects\HttpServer\bin\Debug\net9.0\HttpServer.dll
+C:\Users\bekal\Music\C#Projects\HttpServer\bin\Debug\net9.0\HttpServer.pdb
+C:\Users\bekal\Music\C#Projects\HttpServer\obj\Debug\net9.0\HttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bekal\Music\C#Projects\HttpServer\obj\Debug\net9.0\HttpServer.AssemblyInfoInputs.cache
+C:\Users\bekal\Music\C#Projects\HttpServer\obj\Debug\net9.0\HttpServer.AssemblyInfo.cs
+C:\Users\bekal\Music\C#Projects\HttpServer\obj\Debug\net9.0\HttpServer.csproj.CoreCompileInputs.cache
+C:\Users\bekal\Music\C#Projects\HttpServer\obj\Debug\net9.0\HttpServer.dll
+C:\Users\bekal\Music\C#Projects\HttpServer\obj\Debug\net9.0\refint\HttpServer.dll
+C:\Users\bekal\Music\C#Projects\HttpServer\obj\Debug\net9.0\HttpServer.pdb
+C:\Users\bekal\Music\C#Projects\HttpServer\obj\Debug\net9.0\HttpServer.genruntimeconfig.cache
+C:\Users\bekal\Music\C#Projects\HttpServer\obj\Debug\net9.0\ref\HttpServer.dll
